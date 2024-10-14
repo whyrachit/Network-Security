@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 python-dotenv
+pymongo
+certifi
+
+#-e .
